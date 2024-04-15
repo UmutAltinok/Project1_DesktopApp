@@ -1,5 +1,5 @@
-not=int(input("Lütfen notunuzu giriniz:"))
-if not>90:
+sonuc=int(input("Lütfen notunuzu giriniz:"))
+if sonuc>90:
     print("AA")
 else:
     print ("Kaldınız!!!")
